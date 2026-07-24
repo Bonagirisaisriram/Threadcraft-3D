@@ -1,0 +1,6 @@
+{
+  "name": "ThreadCraft 3D",
+  "description": "3D Costume Customizer, Real-Time Fabric Studio & AI-Powered Inventory Matching",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
